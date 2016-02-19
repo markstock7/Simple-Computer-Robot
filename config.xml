@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <cookie>
+         3fcd0123a85d32a58d64b2a83b5906a9
+    </cookie>
+    <numberofThreads>
+      2
+    </numberofThreads>
+    <config>
+        <startCommrate>
+            3
+        </startCommrate>  
+        <startTotalnum>
+            1000
+        </startTotalnum>
+        <endTotalnum>
+            10000
+        </endTotalnum>
+        <startPrice>
+        </startPrice>
+        <endPrice>
+        </endPrice>      
+    </config>
+    <webnode>
+        <keyword> 
+          t1
+        </keyword>
+        <category>
+           t1
+        </category>
+        <webinfo>
+            <server>104.149.211.163</server>
+            <user> hfuu_com</user>
+            <passwd>yuan520</passwd>
+            <db>hfuu_com</db>
+        </webinfo>
+    </webnode>
+    <webnode>
+        <keyword> 
+          t2
+        </keyword>
+        <category>
+           t2
+        </category>
+        <webinfo>
+            <server>104.149.211.163</server>
+            <user> hfuu_com</user>
+            <passwd>yuan520</passwd>
+            <db>hfuu_com</db>
+        </webinfo>
+    </webnode>
+</root>
